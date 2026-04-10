@@ -4,10 +4,6 @@
 
 ### *Complexity bad. Simple good. Ship code.*
 
-[![grugbot420](https://img.shields.io/badge/🤖_grugbot420-Try_Playground-green?style=for-the-badge)](https://grug-group420.github.io/portal#playground)
-[![Philosophy](https://img.shields.io/badge/📖_Philosophy-grugbrain.dev-orange?style=for-the-badge)](https://grugbrain.dev/)
-[![Discord](https://img.shields.io/badge/Discord-Join_Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/grug-group420)
-
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=We+build+simple+tools;No+over-engineering;Ship+fast%2C+iterate+faster;Delete+code+%3E+Add+code" alt="Typing SVG" />
@@ -21,6 +17,53 @@
 We're a collective of developers who follow the **Grug Brained Developer** philosophy. We believe the best code is simple code — code that works, ships fast, and doesn't make your brain hurt.
 
 > *"Grug brain developer not so diff from grug brain. grug brain developer friend to grug brain."*
+
+---
+
+## 🚀 Try It Now
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🦴 Portal
+
+<a href="https://grug-group420.github.io/portal">
+<img src="https://img.shields.io/badge/grug--group420-Portal-0d1117?style=for-the-badge&labelColor=161b22&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzNmYjk1MCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==" height="50"/>
+</a>
+
+**Visit our home base**
+
+Learn about grug philosophy,<br>explore projects, meet the tribe
+
+<a href="https://grug-group420.github.io/portal">
+<img src="https://img.shields.io/badge/▶_ENTER_PORTAL-3fb950?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 🎮 Playground
+
+<a href="https://grug-group420.github.io/portal#playground">
+<img src="https://img.shields.io/badge/grugbot420-Playground-0d1117?style=for-the-badge&labelColor=161b22&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzU4YTZmZiI+PHBhdGggZD0iTTIxIDZoLTJWNGMwLTEuMS0uOS0yLTItMkg3Yy0xLjEgMC0yIC45LTIgMnYySDNjLTEuMSAwLTIgLjktMiAydjEyYzAgMS4xLjkgMiAyIDJoMThjMS4xIDAgMi0uOSAyLTJWOGMwLTEuMS0uOS0yLTItMnpNNyA0aDEwdjJIN1Y0em0xNCAxNEgzVjhoMTh2MTB6Ii8+PC9zdmc+" height="50"/>
+</a>
+
+**Interactive grugbot420 demo**
+
+Try commands: `wisdom`, `ship`, `debug`<br>No install. No signup. Just type.
+
+<a href="https://grug-group420.github.io/portal#playground">
+<img src="https://img.shields.io/badge/▶_TRY_GRUGBOT-58a6ff?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -38,8 +81,6 @@ const grugbot = {
 grugbot.code(); // 🚀
 ```
 
-**[🎮 Try the Playground →](https://grug-group420.github.io/portal#playground)**
-
 ---
 
 ## 📦 Our Projects
@@ -47,8 +88,9 @@ grugbot.code(); // 🚀
 | Project | Description | Status |
 |---------|-------------|--------|
 | [grugbot420](https://github.com/grug-group420/grugbot420) | Simple bot, grug approved | 🟢 Active |
+| [portal](https://github.com/grug-group420/portal) | Our website & playground | 🟢 Active |
 | [grug-cli](https://github.com/grug-group420/grug-cli) | CLI tools the grug way | 🟢 Active |
-| [no-complexity](https://github.com/grug-group420/no-complexity) | Lint rules against complexity | 🟡 WIP |
+| [grug-templates](https://github.com/grug-group420/grug-templates) | Zero-dep starter templates | 🟢 Active |
 
 ---
 
@@ -93,27 +135,7 @@ git clone https://github.com/grug-group420/[project]
 # Ship it 🚀
 ```
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome_(keep_it_simple)-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grug-group420&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
----
-
-## 🌐 Links
-
-<p align="center">
-
-[![Portal](https://img.shields.io/badge/🦴_Portal-Visit-blue?style=for-the-badge)](https://grug-group420.github.io/portal)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gruggroup420)
-[![Playground](https://img.shields.io/badge/🎮_Playground-Try_grugbot420-green?style=for-the-badge)](https://grug-group420.github.io/portal#playground)
-
-</p>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome_(keep_it_simple)-brightgreen.svg?style=flat-square)](https://github.com/grug-group420/.github/blob/main/CONTRIBUTING.md)
 
 ---
 
