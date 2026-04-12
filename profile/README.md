@@ -20,8 +20,10 @@ We build **simple developer tools** with **zero dependencies**. Based on [The Gr
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [grugbot420](https://github.com/grug-group420/grugbot-server) | AI CLI assistant | [![CI](https://github.com/grug-group420/grugbot-server/actions/workflows/ci.yml/badge.svg)](https://github.com/grug-group420/grugbot-server/actions) |
+| [grugbot420](https://github.com/grug-group420/grugbot420) | Neuromorphic cognitive engine (Julia) | [![CI](https://github.com/grug-group420/grugbot420/actions/workflows/ci.yml/badge.svg)](https://github.com/grug-group420/grugbot420/actions) |
+| [grugbot-server](https://github.com/grug-group420/grugbot-server) | AI CLI assistant | [![CI](https://github.com/grug-group420/grugbot-server/actions/workflows/ci.yml/badge.svg)](https://github.com/grug-group420/grugbot-server/actions) |
 | [grug-cli](https://github.com/grug-group420/grug-cli) | Developer toolkit | [![CI](https://github.com/grug-group420/grug-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/grug-group420/grug-cli/actions) |
+| [Bindboss](https://github.com/grug-group420/Bindboss) | Self-extracting executable packer | ![Active](https://img.shields.io/badge/status-active-green) |
 | [portal](https://github.com/grug-group420/portal) | Organization website | ![Live](https://img.shields.io/badge/status-live-green) |
 
 ## 🚀 Quick Start
@@ -34,9 +36,19 @@ bunx grugbot420 help
 open https://grug-group420.github.io/portal#playground
 ```
 
+## 🏔️ Founder
+
+<a href="https://github.com/marshalldavidson61-arch">
+  <img src="https://avatars.githubusercontent.com/marshalldavidson61-arch" width="80" style="border-radius:50%">
+  <br>
+  <b>@marshalldavidson61-arch</b>
+  <br>
+  <sub>Founder & Lead Developer</sub>
+</a>
+
 ## 👥 The Tribe
 
-<a href="https://github.com/marshalldavidson61"><img src="https://avatars.githubusercontent.com/marshalldavidson61" width="60" style="border-radius:50%"></a>
+<a href="https://github.com/marshalldavidson61-arch"><img src="https://avatars.githubusercontent.com/marshalldavidson61-arch" width="60" style="border-radius:50%"></a>
 <a href="https://github.com/sleepthegod"><img src="https://avatars.githubusercontent.com/sleepthegod" width="60" style="border-radius:50%"></a>
 <a href="https://github.com/bad-antics"><img src="https://avatars.githubusercontent.com/bad-antics" width="60" style="border-radius:50%"></a>
 
